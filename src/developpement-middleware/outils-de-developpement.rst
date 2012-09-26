@@ -69,7 +69,9 @@ Acceleo
 :Licence: EPL (Eclipse Public License)
 
 Acceleo est un générateur de code Open Source de la fondation Eclipse permettant de mettre en œuvre l'approche MDA (Model driven architecture) pour réaliser des applications à partir de modèles basés sur EMF. 
+
 Le code généré est spécifié sous la forme de templates ce qui permet de produire du code pour tout type de langages (Java, C, C++, Ada, ...) en garantissant le respect des normes de développements propre à chaque organisation ou projet.
+
 Il s'agit d'une implémentation de la norme de l'Object Management Group (OMG) pour les transformations de modèle vers texte (M2T) Model to Text.
 
 
