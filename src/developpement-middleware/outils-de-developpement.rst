@@ -49,8 +49,8 @@ Phing est développé en PHP et est compatible avec les plateformes Windows, Lin
 Eclipse
 -------
 
-:Version: 3.7
-:Site: www.eclipse.org
+:Version: 3.3
+:Site: http://www.eclipse.org/acceleo/
 :Porteur: une fondation (Eclipse)
 :Licence: EPL (Eclipse Public License)
 
@@ -59,6 +59,18 @@ Eclipse est un environnement de développement extensible et polyvalent, initié
 Conçu autour d'une plateforme commune à laquelle s'agrègent des composants dérivatifs, le projet est ainsi constitué de nombreux sous-projets spécifiques aux technologies sous-jacentes. L’object de la solution Eclipse est de fournir des outils favorisant la productivité, mais pas seulement celle qui concerne le codage logiciel. On y trouve des environnements de développement intégré mais également de conception, de modélisation, de tests, de reporting, etc. Eclipse a beau être écrit en Java, il peut être utilisé pour développer sous de très nombreux langage de programmation.
 
 Eclipse est écrit en Java.
+
+Acceleo
+-------
+
+:Version: 3.3
+:Site: www.eclipse.org
+:Porteur: un éditeur (Obeo)
+:Licence: EPL (Eclipse Public License)
+
+Acceleo est un générateur de code Open Source de la fondation Eclipse permettant de mettre en œuvre l'approche MDA (Model driven architecture) pour réaliser des applications à partir de modèles basés sur EMF. 
+Le code généré est spécifié sous la forme de templates ce qui permet de produire du code pour tout type de langages (Java, C, C++, Ada, ...) en garantissant le respect des normes de développements propre à chaque organisation ou projet.
+Il s'agit d'une implémentation de la norme de l'Object Management Group (OMG) pour les transformations de modèle vers texte (M2T) Model to Text.
 
 
 MantisBT
