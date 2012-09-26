@@ -50,7 +50,7 @@ Eclipse
 -------
 
 :Version: 3.3
-:Site: http://www.eclipse.org/acceleo/
+:Site: www.eclipse.org
 :Porteur: une fondation (Eclipse)
 :Licence: EPL (Eclipse Public License)
 
@@ -64,7 +64,7 @@ Acceleo
 -------
 
 :Version: 3.3
-:Site: www.eclipse.org
+:Site: http://www.eclipse.org/acceleo/
 :Porteur: un éditeur (Obeo)
 :Licence: EPL (Eclipse Public License)
 
